@@ -11,6 +11,21 @@
 # License version 2.0 as published by the Free Software Foundation
 # and appearing in the file LICENSE.txt included in the packaging of
 # this file.
+#
+# = References
+#    - http://en.wikipedia.org/wiki/X.509
+#    - http://en.wikipedia.org/wiki/Basic_encoding_rules
+#
+#    - What Your Mother Didn't Tell You About PEM, DER, PKCS:
+#        http://net.educause.edu/ir/library/pdf/PKI0505.pdf
+#
+#    - A Layman's Guide to a Subset of ASN.1, BER, and DER
+#        ftp://ftp.rsa.com/pub/pkcs/ps/layman.ps
+#
+#    - RFCs:
+#      * RFC 5280: Internet X.509 Public Key Infrastructure Certificate and 
+#                  Certificate Revocation List (CRL) Profile 
+#          http://tools.ietf.org/rfc/rfc5280.txt 
 
 
 require 'openssl'
