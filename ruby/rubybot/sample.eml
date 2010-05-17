@@ -1,0 +1,5 @@
+From: <user@localhost>
+To: <user@localhost>
+Subject: simple
+
+echo foo bar
