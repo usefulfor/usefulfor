@@ -1,0 +1,4 @@
+The scripts and tools contained in this folder correspond to posts in the Ruby 
+category of the site. Find out more at 
+
+http://usefulfor.com/ruby
